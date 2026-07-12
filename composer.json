@@ -1,0 +1,14 @@
+{
+    "require-dev": {
+        "laravel/breeze": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Respina\\": "src/",
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "laravel/framework": "^13.19"
+    }
+}
